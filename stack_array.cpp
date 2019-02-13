@@ -1,4 +1,4 @@
-// stack.h for ANSI C and C++
+// stack_array.cpp for ANSI C and C++
 // (C) 2019 Richard Chen <richardchenahs@hotmail.com>
 
 #include "stack.h"

@@ -62,11 +62,6 @@ uint16_t QueryForAction()
     return nInput;
 }
 
-void RunLinkedListStack()
-{
-    QueryForAction();
-}
-
 void RunVectorStack()
 {
     QueryForAction();
